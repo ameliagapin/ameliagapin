@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Some ideas: https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b
+Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile (scroll to bottom for link to get more icons)
 -->
 
 [<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/entirelyamelia/)
