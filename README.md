@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 Some ideas: https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b
 -->
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/entirelyamelia/)
-
----
+[<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/entirelyamelia/)
+[<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/entirelyamelia/)
 
 - 🔭 I’m currently working as a Staff Engineer at Hinge. I work primarily in the Community Group on our Bad Actor projects.
 - 🏃‍♀️ I am also working on a digital fitness journal that I hope to open up for collaboration soon.
