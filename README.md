@@ -24,10 +24,9 @@ Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile (scroll to 
 [<img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/ameliagapin)
 
 
-- 🏫 I'm a self-taught engineer with 16 years of personal experience and 13 years of professional experience.
-- 🔭 I’m currently working as a Staff Engineer at Hinge. I work primarily in the Community Group on our Bad Actor projects.
-- 🏃‍♀️ I am also working on a digital fitness journal that I hope to open up for collaboration soon.
-- 🤖 I like making stupid Slackbots to annoy my coworkers.
+- 🏫 I'm a self-taught engineer with 18 years of personal experience and 15 years of professional experience.
+- 🔭 I’m currently working as a Senior Staff Engineer at Hinge. I work primarily with the Bad Actors Team in our Trust and Safety group.
+- 🤖 Stupid Slackbots are my passion
 
 ### Tech stuff I know something about. Some more than others.
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
