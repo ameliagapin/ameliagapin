@@ -24,8 +24,8 @@ Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile (scroll to 
 [<img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/ameliagapin)
 
 
-- 🏫 I'm a self-taught engineer with 18 years of personal experience and 15 years of professional experience.
-- 🔭 I’m currently working as a Senior Staff Engineer at Hinge. I work primarily with the Bad Actors Team in our Trust and Safety group.
+- 🏫 I'm a self-taught engineer with nearly 20 years of personal experience and 15+ years of professional experience.
+- 🔭 I’m currently working as a Staff Engineer at 1Password.
 - 🤖 Stupid Slackbots are my passion
 
 ### Tech stuff I know something about. Some more than others.
