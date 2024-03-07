@@ -24,14 +24,16 @@ Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile (scroll to 
 [<img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/ameliagapin)
 
 
-- 🏫 I'm a self-taught engineer with nearly 20 years of personal experience and 15+ years of professional experience.
-- 🔭 I’m currently working as a Staff Engineer at 1Password.
+- 🏫 I'm a self-taught engineer with nearly 20 years of personal experience and 15+ years of professional experience
+- 🔭 I’m currently working as a Staff Engineer at 1Password
+- 🏢 I've previously worked at a bunch of other companies you've definitely heard of
 - 🤖 Stupid Slackbots are my passion
 
 ### Tech stuff I know something about. Some more than others.
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
