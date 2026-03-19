@@ -25,7 +25,7 @@ Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile (scroll to 
 
 
 - 🏫 I'm a self-taught engineer with nearly 20 years of personal experience and 15+ years of professional experience
-- 🔭 I’m currently working as a Staff Engineer at 1Password
+- 🔭 I’m currently working as an engineer at Sublime Security
 - 🏢 I've previously worked at a bunch of other companies you've definitely heard of
 - 🤖 Stupid Slackbots are my passion
 
